@@ -15,6 +15,10 @@
 
 <p align="center">A Sophisticated Recommendation Algorithm, Combining Collaborative Filtering, Content-Based Analysis, Temporal Dynamics, Engagement Metrics & Popularity Trends.</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/042bb95e-93cc-45bc-9ded-09cf7374656d" />
+</p>
+
 ## Table of Contents
 
 - [Overview](#overview)
